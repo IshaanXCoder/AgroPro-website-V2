@@ -1,0 +1,62 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
+    scroll-behavior: smooth;
+    background-attachment: fixed;
+    background-image: url(https://castellinicompany.com/wp-content/uploads/2016/02/FM4_0723.jpg);
+  }
+  .navbar {
+    font: 80px black;
+    height: 70px;
+    padding-top: 20px;
+    color: white;
+    opacity: 1;
+    position: fixed;
+    border-bottom: 2px solid orange;
+    text-decoration: none;
+  }
+  .my-4 {
+    margin: 10%;
+    padding-top: 15%;
+  }
+  .nav-item h5 {
+    color: white !important;
+    font-style: bold !important;
+    opacity: 1;
+  }
+  .img-rounded rounded-circle profile-img {
+    background-position: center;
+  }
+  
+  .card {
+    background-color: orange;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: initial;
+  }
+  a {
+    text-decoration: none;
+    color: initial;
+    font-size: 20px;
+    padding: 40px;
+  }
+  
+  .profile-img {
+    margin-left: 100px;
+    margin-right: 10px;
+    background: url("https://lh3.googleusercontent.com/proxy/Iw8NlUBi_BMOLclohVeZrhBK31LRMgzzKEFp08FbAGG4UquMOljY5jBKkDgJj04l7cmZbMS0MGraGOtgjfawsUqLvuD_1c9xpPIv934yDB2A067TKzDNgLbzcYIJmWLuFGJbxAupjPVibmnh1WqNip9twAJ0eKrSovoXrGYWF7FmzJW8CQOail1zQNDP_wc")
+      50% 50% no-repeat;
+    background-size: 100%;
+    width: 57px;
+    height: 50px;
+    overflow: hidden;
+  }
+
+  .graph-container{
+    background-color: rgb(248, 245, 230);
+    padding: 7vh;
+    margin-top: 30vh;
+    border: 3px solid orange;
+  }
